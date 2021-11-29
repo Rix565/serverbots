@@ -1,1 +1,1 @@
-wss://6ec8-34-145-21-235.ngrok.io
+wss://f7ee-34-145-21-235.ngrok.io
