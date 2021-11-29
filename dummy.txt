@@ -1,1 +1,1 @@
-E:SERVER_OFFLINE
+wss://056a-34-145-21-235.ngrok.io
